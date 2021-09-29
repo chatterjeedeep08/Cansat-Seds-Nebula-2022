@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\Projects\CANSAT-SEDS-NEBULA-2022\virt"
+VIRTUAL_ENV="F:\Projects\Cansat-Seds-Nebula-2022\virt"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
